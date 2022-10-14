@@ -1,2 +1,2 @@
-# ticketshop
-website for capstone prject
+# ticketshop webapp
+website for capstone project
